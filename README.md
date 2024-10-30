@@ -1,4 +1,4 @@
-# Trading_Bots
+# Trading_Coding_Journey
 Hello,
 
 In this repo, you will find all the trading strategies and data analysis projects I am working on:
