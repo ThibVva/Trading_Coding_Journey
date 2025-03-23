@@ -6,7 +6,8 @@ In this repo, you will find all the trading strategies and data analysis project
 Trading Bot:
 - Copying the US Congress Members' Transactions: Trade_Bot_USCongress.ipynb
 - Financial News Sentiment Analysis : Trade_Bot_News_Sentiment.ipynb
-- KNN Regressor Momentum (MACD) Trading Signals: Trade_Bot_KNN_Regressor.ipynb
+- KNN Regressor Momentum Trading Signals: Trade_Bot_KNN_Regressor.ipynb
+- Momentum Strategies (Technical Analysis): Trade_Bot_Momentum_Strategies.ipynb
 
 Interest Rate Modeling:
 - Spot Yield Curve Construction: IR_Model_Spot_Yield_Curve.ipynb
